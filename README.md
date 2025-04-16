@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+<h3 align="left">💼 My Skills</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="vertical-align: middle;" />
@@ -36,10 +36,10 @@
 
 <p align="left">
   <a href="mailto:hasaanazeem07@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130px" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120px" />
+  </a>
   <a href="https://linkedin.com/in/hasaan-azeem" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="130px" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="120px" />
   </a>
 </p>
 
