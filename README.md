@@ -9,11 +9,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: **My Learning**  
-- 🌱 I’m currently learning: **React.js, Tailwind CSS, Firebase, Node.js**  
-- 🤝 I’m looking to collaborate on: **Open source, creative frontend projects**  
-- 💬 Ask me about: **Frontend dev, Flutter, Firebase, UI/UX**  
-- ⚡ Fun fact: **I can debug code while vibing to lo-fi beats.**
+- 🔭 **Currently working on:** My Learning  
+- 🌱 **Currently learning:** React.js, Tailwind CSS, Firebase, Node.js  
+- 🤝 **Looking to collaborate on:** Open-source, creative frontend projects  
+- 💬 **Ask me about:** Frontend development, Flutter, Firebase, UI/UX  
+- ⚡ **Fun fact:** I can debug code while vibing to lo-fi beats.
 
 ---
 
@@ -37,8 +37,12 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="mailto:hasaanazeem07@gmail.com"><img width="10%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hasaan-azeem" target="_blank"><img width="10.5%" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hasaanazeem07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="11%" max-width="50" />
+  </a>
+  <a href="https://linkedin.com/in/hasaan-azeem" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="11.5%" max-width="50" />
+  </a>
 </p>
 
 ---
