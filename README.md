@@ -35,11 +35,11 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="mailto:hasaanazeem07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="11%" max-width="60" />
+  <a href="mailto:hasaanazeem07@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="20%" min-width="20" />
   </a>
-  <a href="https://linkedin.com/in/hasaan-azeem" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="11.5%" max-width="60" />
+  <a href="https://linkedin.com/in/hasaan-azeem" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="20%" max-width="20" />
   </a>
 </p>
 
