@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasaan Azeem</h1>
-<h3 align="center">A passionate frontend Web developer from Gujranwala, Pakistan 🇵🇰</h3>
+<p align="center">A passionate frontend Web developer from Gujranwala, Pakistan 🇵🇰</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasaanazeem&label=Profile%20views&color=0e75b6&style=flat" alt="hasaanazeem" />
@@ -7,11 +7,9 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🔭 **Currently working on:** My Learning  
-- 🌱 **Currently learning:** React.js, Tailwind CSS, Firebase, Node.js  
-- 🤝 **Looking to collaborate on:** Open-source, creative frontend projects  
+- 🏢 **Currently:** My Learning  
+- 🏫 **Currently:** React.js, Tailwind CSS, Firebase, Node.js  
+- 👀 **Collaborate on:** Open-source, creative frontend projects  
 - 💬 **Ask me about:** Frontend development, Flutter, Firebase, UI/UX  
 - ⚡ **Fun fact:** I can debug code while vibing to lo-fi beats.
 
@@ -39,7 +37,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120px" />
   </a>
   <a href="https://linkedin.com/in/hasaan-azeem" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="120px" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="125px" />
   </a>
 </p>
 
