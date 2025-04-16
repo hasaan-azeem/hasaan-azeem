@@ -36,12 +36,13 @@
 
 <p align="left">
   <a href="mailto:hasaanazeem07@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="20%" min-width="11" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130px" />
+  </a>&nbsp;
   <a href="https://linkedin.com/in/hasaan-azeem" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="20%" min-width="11.5" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="130px" />
   </a>
 </p>
+
 
 ---
 
