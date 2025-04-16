@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasaan Azeem</h1>
-<h3 align="center">A passionate frontend & Flutter developer from Gujranwala, Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate frontend Web developer from Gujranwala, Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasaanazeem&label=Profile%20views&color=0e75b6&style=flat" alt="hasaanazeem" />
@@ -11,9 +11,8 @@
 
 - 🔭 I’m currently working on: **My Learning**  
 - 🌱 I’m currently learning: **React.js, Tailwind CSS, Firebase, Node.js**  
-- 🤝 I’m looking to collaborate on: **Open source, Flutter UIs, and creative frontend projects**  
+- 🤝 I’m looking to collaborate on: **Open source, creative frontend projects**  
 - 💬 Ask me about: **Frontend dev, Flutter, Firebase, UI/UX**  
-- 📫 How to reach me: **hasaanazeem07@gmail.com**  
 - ⚡ Fun fact: **I can debug code while vibing to lo-fi beats.**
 
 ---
@@ -35,20 +34,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasaanazeem&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanazeem&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="mailto:hasaanazeem07@gmail.com"><img width="15%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hasaan-azeem" target="_blank"><img width="15%" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hasaanazeem07@gmail.com"><img width="10%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hasaan-azeem" target="_blank"><img width="10.5%" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
