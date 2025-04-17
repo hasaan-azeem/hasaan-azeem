@@ -7,22 +7,16 @@
 
 ---
 
-<table align="center">
-  <tr>
-   <td>
-      <ul>
-        <li>🏢 <strong>Currently:</strong> My Learning</li>
-        <li>🏫 <strong>Currently:</strong> React.js, Tailwind CSS, Firebase, Node.js</li>
-        <li>👀 <strong>Collaborate on:</strong> Open-source, creative frontend projects</li>
-        <li>💬 <strong>Ask me about:</strong> Frontend development, Flutter, Firebase, UI/UX</li>
-        <li>⚡ <strong>Fun fact:</strong> I can debug code while vibing to lo-fi beats.</li>
-      </ul>
-    </td>
-      <td>
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" />
+</p>
+
+- 🏢 **Currently:** My Learning  
+- 🏫 **Currently:** React.js, Tailwind CSS, Firebase, Node.js  
+- 👀 **Collaborate on:** Open-source, creative frontend projects  
+- 💬 **Ask me about:** Frontend development, Flutter, Firebase, UI/UX  
+- ⚡ **Fun fact:** I can debug code while vibing to lo-fi beats.
+
 
 ---
 
