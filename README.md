@@ -52,7 +52,7 @@
   <a href="https://twitter.com/hasaan_butt07" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://instagram.com/hasaan-azeem0" target="_blank">
+  <a href="https://instagram.com/hasaan_zeem0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
