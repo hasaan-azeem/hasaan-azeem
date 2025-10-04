@@ -18,7 +18,7 @@
 
 - 🏢 **Full Stack Developer:** MERN + Flutter + SQL  
 - 🛠️ **Specialized In:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, MySQL, Firebase, Flutter  
-- 🌱 **Always Exploring:** Modern UI/UX patterns and scalable backend solutions  
+- 🌱 **Always Exploring:** Modern UI/UX design and scalable backend solutions  
 - 🤝 **Open To:** Collaborating on full stack and open-source projects  
 - ⚡ **Fun Fact:** I debug code better when vibing to lo-fi beats 🎧  
 
@@ -42,7 +42,7 @@
 
 ### 🔗 Connect with Me  
 
-<p align="left">
+<p align="center">
   <a href="mailto:hasaanazeem07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -50,18 +50,22 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/hasaan_butt07" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://instagram.com/hasaan_zeem0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://hasaan.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.buymeacoffee.com/HASAAN" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
   </a>
 </p>
+
 
 ---
 
