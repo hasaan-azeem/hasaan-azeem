@@ -1,79 +1,84 @@
 <h1 align="center">Hi 👋, I'm Hasaan Azeem</h1>
-<p align="center">A passionate frontend Web developer from Gujranwala, Pakistan 🇵🇰</p>
+<p align="center">📍 Gujranwala, Pakistan 🇵🇰</p>
+<p align="center">🚀 Full Stack Web & Mobile Developer | Passionate about building scalable apps with clean code and sleek design</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasaanazeem&label=Profile%20views&color=0e75b6&style=flat" alt="hasaanazeem" />
+  <img src="https://komarev.com/ghpvc/?username=hasaan-azeem&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" />
-</p>
-
-- 🏢 **Currently:** My Learning  
-- 🏫 **Currently:** React.js, Tailwind CSS, Firebase, Node.js  
-- 👀 **Collaborate on:** Open-source, creative frontend projects  
-- 💬 **Ask me about:** Frontend development, Flutter, Firebase, UI/UX  
-- ⚡ **Fun fact:** I can debug code while vibing to lo-fi beats.
-
-
----
-
-<h3 align="left">💼 My Skills</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="vertical-align: middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="vertical-align: middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="vertical-align: middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" style="vertical-align: middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" style="vertical-align: middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="vertical-align: middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="vertical-align: middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" alt="WordPress" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" alt="Coding GIF"/>
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 👨‍💻 About Me  
+
+- 🏢 **Full Stack Developer:** MERN + Flutter + SQL  
+- 🛠️ **Specialized In:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, MySQL, Firebase, Flutter  
+- 🌱 **Always Exploring:** Modern UI/UX patterns and scalable backend solutions  
+- 🤝 **Open To:** Collaborating on full stack and open-source projects  
+- ⚡ **Fun Fact:** I debug code better when vibing to lo-fi beats 🎧  
+
+---
+
+### 💼 Tech Stack  
+
+#### 🌐 Frontend  
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=light" />
+
+#### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=light" />
+
+#### 📱 Mobile  
+<img src="https://skillicons.dev/icons?i=flutter,firebase&theme=light" />
+
+#### 🛠 Tools & Others  
+<img src="https://skillicons.dev/icons?i=git,github,wordpress,cpp&theme=light" />
+
+---
+
+### 🔗 Connect with Me  
 
 <p align="left">
-  <a href="mailto:hasaanazeem07@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120px" />
+  <a href="mailto:hasaanazeem07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/hasaan-azeem" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="125px" />
+  <a href="https://linkedin.com/in/hasaan-azeem" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<a href="https://www.buymeacoffee.com/HASAAN" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<p>
+  <a href="https://www.buymeacoffee.com/HASAAN" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+  </a>
+</p>
+
 ---
 
-### 🧠 Contribution Graph
+### 📊 GitHub Stats  
 
 <div align="center">
- <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasaan-azeem&show_icons=true&theme=radical" alt="hasaan-azeem's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasaan-azeem&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaan-azeem&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasaan-azeem&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasaan-azeem&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasaan-azeem&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasaan-azeem&theme=radical" alt="Contribution Graph" />
 </p>
 
 
-
-</div>
-
 ---
 
-### 🎨 Dev Life
+### 🎨 Dev Life  
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
 </p>
-
----
-
