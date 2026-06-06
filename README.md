@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasaan Azeem</h1>
 
-<p align="center">📍 Lahore, Pakistan 🇵🇰</p>
+<p align="center">📍 , Pakistan 🇵🇰</p>
 
 <p align="center">
   🚀 Full Stack Web & Mobile Developer<br/>
