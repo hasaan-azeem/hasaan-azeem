@@ -21,7 +21,7 @@
 
 - 🏢 **Full Stack Developer:** MERN + Next.js + Flutter + SQL
 - 🛠️ **Specialized In:** React.js, Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, PostgreSQL, MySQL, Firebase, Flutter
-- 🛒 **E-Commerce:** Shopify theme development, custom storefront builds with Stripe payment integration
+- 🛒 **E-Commerce:** Shopify & word[ress theme development, custom storefront builds with Stripe payment integration
 - 🌱 **Always Exploring:** Modern UI/UX design and scalable backend solutions
 - 🤝 **Open To:** Collaborating on full stack and open-source projects
 - ⚡ **Fun Fact:** I debug code better when vibing to lo-fi beats 🎧
